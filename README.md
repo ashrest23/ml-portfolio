@@ -5,6 +5,7 @@ This repository showcases my machine learning and data science projects involvin
 ## Projects
 
 ### Industrial Signal Anomaly Detection
+[Anomaly Detection Project](https://github.com/yourusername/anomaly-detection)
 Detect anomalous industrial sensor signals using LOF, StrOUD, and deep autoencoders.
 
 Technologies:
