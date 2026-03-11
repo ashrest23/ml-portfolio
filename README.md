@@ -12,7 +12,7 @@ Python, TensorFlow, NumPy, SciPy
 
 ---
 
-### Image Classification with Deep Learning
+### [Image Classification with Deep Learning](https://github.com/ashrest23/image-classification-deep-learning)
 Train a deep neural network to classify images using TensorFlow and Keras.
 
 Technologies:
