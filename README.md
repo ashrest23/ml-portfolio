@@ -20,7 +20,7 @@ Python, TensorFlow, CNN
 
 ---
 
-### Customer Sentiment Analysis (NLP)
+### [Customer Sentiment Analysis (NLP)](https://github.com/ashrest23/customer-sentiment-analysis-nlp)
 Analyze sentiment of 18,000+ Amazon product reviews using NLP techniques.
 
 Technologies:
